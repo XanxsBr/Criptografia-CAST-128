@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1728427824 source:e:\2_semestre\pcg\cast-128\main.cpp
+
+1728428288 source:e:\2_semestre\pcg\cast-128\cast-128.cpp
+	<cstring>
+	"stdafx.h"
+	"cast_s.h"
+
+1728425776 e:\2_semestre\pcg\cast-128\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<tchar.h>
+	<assert.h>
+
+1728425780 e:\2_semestre\pcg\cast-128\targetver.h
+
+1728425766 e:\2_semestre\pcg\cast-128\cast_s.h
+
+1728425772 source:e:\2_semestre\pcg\cast-128\stdafx.cpp
+	"stdafx.h"
+
+1728920848 source:d:\2_semestre\pcg\cast-128\cast-128.cpp
+	<cstring>
+	<locale.h>
+	"stdafx.h"
+	"cast_s.h"
+
+1728912794 d:\2_semestre\pcg\cast-128\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<assert.h>
+
+1728425780 d:\2_semestre\pcg\cast-128\targetver.h
+
+1728425766 d:\2_semestre\pcg\cast-128\cast_s.h
+
+1728425772 source:d:\2_semestre\pcg\cast-128\stdafx.cpp
+	"stdafx.h"
+
+1730061394 source:d:\2_semestre\pcg\arquivo_envio\cast-128.cpp
+	<cstring>
+	<locale.h>
+	"stdafx.h"
+	"cast_s.h"
+
+1730061318 d:\2_semestre\pcg\arquivo_envio\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<assert.h>
+
+1730061412 d:\2_semestre\pcg\arquivo_envio\targetver.h
+
+1730060896 d:\2_semestre\pcg\arquivo_envio\cast_s.h
+
